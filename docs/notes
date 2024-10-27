@@ -1,0 +1,8 @@
+#Install jekyll prerequisites https://jekyllrb.com/docs/installation/
+sudo apt-get install ruby-full build-essential zlib1g-dev
+# Install jekyll && just-the-docs
+sudo gem install jekyll bundler just-the-docs
+
+
+
+
