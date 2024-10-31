@@ -28,7 +28,7 @@ Solderless model of one option for spring-loaded contacts (pogo pins) interfacin
 
 Further reading
 ---
-* [Flashkeeper - Original project scope - Presentation at QubesOS mini-summit 2024](https://youtu.be/DxFceGi6C0k?list=PLuISieMwVBpJmIaHgyv7yKDwrHpqym9Qh)
+* [Flashkeeper - Original project scope - Presentation at QubesOS mini-summit 2024](https://cfp.3mdeb.com/qubes-os-summit-2024/talk/FCENX9/)
 
 Learn more about Flashkeeper
 ---
