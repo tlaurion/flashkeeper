@@ -35,7 +35,7 @@ The simplest way to make a small change to existing pages is directly on GitHub
 
 * Start by login into GitHub and forking
 [linuxboot/flashkeeper](https://github.com/linuxboot/flashkeeper).
-* Find the desired page on [osresearch.net](http://osresearch.net/).  Click on
+* Find the desired page on [flashkeeper.org](http://flashkeeper.org/).  Click on
 the link at the bottom of the page saying *"Edit this page on GitHub."*
 * This will bring you to an editor on GitHub and should mention that you do not
 have write access to the `linuxboot/flashkeeper` repo and that changes will be
