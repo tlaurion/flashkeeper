@@ -36,3 +36,4 @@ Learn more about Flashkeeper
 * [Flashkeeper threat model]({{ site.baseurl }}/Flashkeeper-threat-model/) - goes into more
  detail about what classes of threats Flashkeeper attempts to counter.
 * [Frequently Asked Questions]({{ site.baseurl }}/FAQ/)
+* [Prior Art/State of the Art prior of project start](https://cfp.3mdeb.com/qubes-os-summit-2024/talk/FCENX9/)
