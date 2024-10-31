@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 #theme: just-the-docs
+baseurl: /main/docs
 color_scheme: dark
 heading_anchors: true
 aux_links:
