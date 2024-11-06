@@ -23,7 +23,7 @@ Overview
 ===
 Flashkeeper is a device designed for installation inside a computer, connecting to the SPI flash chip where firmware is stored and making write protection control and reprogramming easy and secure.
 
-![design]({{ site.baseurl }}/images/chip.png)
+![design]({{ site.baseurl }}/docs/images/chip.png)
 Solderless model of one option for spring-loaded contacts (pogo pins) interfacing with a SOIC-8 flash chip from above (FreeCAD)
 
 Further reading
