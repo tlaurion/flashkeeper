@@ -29,9 +29,6 @@ include:
 # Specify the source directory
 source: docs
 
-# Set collections_dir to ensure proper file structure
-collections_dir: .
-
 # Configure defaults for all pages
 defaults:
   - scope:
