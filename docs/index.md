@@ -25,6 +25,10 @@ Flashkeeper is a device designed for installation inside a computer, connecting 
 ![design]({{ site.baseurl }}/images/chip.png)
 Solderless model of one option for spring-loaded contacts (pogo pins) interfacing with a SOIC-8 flash chip from above (FreeCAD)
 
+![wponlyu]({{ site.baseurl }}/images/wponly.png)
+Soldered model of one option interfacing with a SOIC-8 flash chip from above (FreeCAD) and offering write protection switch for [SPI chips supporting WP](https://github.com/linuxboot/flashkeeper/pull/14/files#diff-648b427619d21e01c18aefc3ff817e444286098d8048b6545a4089b1ead54682)
+
+
 ## Further reading
 
 * [Flashkeeper - Original project scope - Presentation at QubesOS mini-summit 2024](https://cfp.3mdeb.com/qubes-os-summit-2024/talk/FCENX9/)
